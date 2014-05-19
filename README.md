@@ -8,7 +8,7 @@ To add a new course:
 - rename the folder to the coursename (using no spaces)
 - Edit the Title and first meta tags in the index.html file as appropriate
 
-## Adding a new Unit to a course
+## Adding a new unit to a course
 
 To add a new unit to a course:
 - Duplicate the template.html file and rename it as appropriate to the new unit
