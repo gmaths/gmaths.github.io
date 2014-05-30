@@ -126,8 +126,8 @@ nav li{
 }
 
 section{
-	background: linear-gradient(#eee, #ccc);
-}
+	background: linear-gradient(white,#dbf9e6);backgroun-imamage:url(')http:;
+
 
 code, pre {
 	font-family: 'source sans pro'
@@ -148,4 +148,3 @@ img.logo{
 	padding: 10px;
 	border-radius: 5px;
 	background-color: #002751;
-}
